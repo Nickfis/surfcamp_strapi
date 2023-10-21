@@ -1,10 +1,10 @@
 {
   "kind": "singleType",
-  "collectionName": "infoblock_experiences",
+  "collectionName": "infoblocks_experiences",
   "info": {
-    "singularName": "infoblock-experience",
-    "pluralName": "infoblock-experiences",
-    "displayName": "Infoblock Experience"
+    "singularName": "infoblocks-experience",
+    "pluralName": "infoblocks-experiences",
+    "displayName": "Infoblocks Experience"
   },
   "options": {
     "draftAndPublish": true
