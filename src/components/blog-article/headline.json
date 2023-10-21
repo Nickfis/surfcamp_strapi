@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_blog_article_headlines",
+  "info": {
+    "displayName": "headline",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "headline": {
+      "type": "string",
+      "required": true
+    },
+    "slug": {
+      "type": "string",
+      "regex": "^[a-z](-?[a-z])*$",
+      "required": true
+    }
+  }
+}
