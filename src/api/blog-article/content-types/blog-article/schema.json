@@ -51,6 +51,9 @@
         "blog-article.paragraph",
         "blog-article.landscape-image"
       ]
+    },
+    "metaTags": {
+      "type": "string"
     }
   }
 }
